@@ -1,0 +1,28 @@
+body {
+  font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+  background: #333;
+  color: #e2e2e2;
+}
+
+.content {
+  margin: 100px auto;
+  padding: 20px;
+  background: #212121;
+  overflow: hidden;
+  border-radius: 40px;
+  max-width: 60%;
+  border: 2px solid #535353
+}
+
+.content__title {
+  text-align: center;
+  font-size: 40px;
+  line-height: 1.5;
+  margin-bottom: 10px;
+
+}
+
+.content__image {
+  width: 100%;
+  border-radius: 20px;
+}

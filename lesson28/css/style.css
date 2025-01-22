@@ -1,0 +1,22 @@
+.article-1 {
+  font-family: "open sans";
+  font-weight: 300;
+  font-size: 20px;
+  line-height: 30px;
+  font-style: italic;
+}
+.article-2{
+  text-decoration: line-through;
+}
+.article-3{
+  text-transform: uppercase;
+  text-align: center;
+}
+.article-4{
+  text-decoration: overline wavy;
+  text-shadow: 1px 1px 2px #6900e0;
+}
+.article-5{
+  letter-spacing: 5px;
+  text-decoration: underline double;
+}
